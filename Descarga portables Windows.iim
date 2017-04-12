@@ -1,8 +1,11 @@
 VERSION BUILD=9030808 RECORDER=FX
 TAB T=1
-'Descarga el portable que se active. Diferente: Libreoffice
+'Descarga el portable que se active. Diferentes: Libreoffice y Firefox
 
 URL GOTO=http://portableapps.com/apps/office/cherrytree-portable
+TAG POS=1 TYPE=IMG ATTR=SRC:http://a.fsdn.com/con/app/accelerator/button?button_size=large
+
+URL GOTO=http://portableapps.com/apps/utilities/freecommander_portable
 TAG POS=1 TYPE=IMG ATTR=SRC:http://a.fsdn.com/con/app/accelerator/button?button_size=large
 
 URL GOTO=http://portableapps.com/apps/office/libreoffice_portable
@@ -14,18 +17,45 @@ TAG POS=19 TYPE=IMG ATTR=SRC:http://a.fsdn.com/con/app/accelerator/button?button
 URL GOTO=https://addons.mozilla.org/es/firefox/addon/imacros-for-firefox/
 URL GOTO=https://addons.mozilla.org/es/firefox/addon/ublock-origin/
 
-
-URL GOTO= http://portableapps.com/apps/office/sumatra_pdf_portable
+URL GOTO=http://portableapps.com/apps/utilities/7-zip_portable
 TAG POS=1 TYPE=IMG ATTR=SRC:http://a.fsdn.com/con/app/accelerator/button?button_size=large
 
-URL GOTO=http://portableapps.com/apps/office/speedcrunch_portable
+URL GOTO=http://portableapps.com/apps/utilities/ditto_portable
 TAG POS=1 TYPE=IMG ATTR=SRC:http://a.fsdn.com/con/app/accelerator/button?button_size=large
 
+URL GOTO=http://portableapps.com/apps/utilities/dm2_portable
+TAG POS=1 TYPE=IMG ATTR=SRC:http://a.fsdn.com/con/app/accelerator/button?button_size=large
 
 URL GOTO=http://portableapps.com/apps/internet/pidgin_portable
 TAG POS=1 TYPE=IMG ATTR=SRC:http://a.fsdn.com/con/app/accelerator/button?button_size=large
 
+URL GOTO=http://portableapps.com/apps/utilities/cook_timer_portable
+TAG POS=1 TYPE=IMG ATTR=SRC:http://a.fsdn.com/con/app/accelerator/button?button_size=large
+
+URL GOTO=http://portableapps.com/apps/internet/thunderbird_portable/localization
+TAG POS=19 TYPE=IMG ATTR=SRC:http://a.fsdn.com/con/app/accelerator/button?button_size=small
+
+URL GOTO=https://www.bigbangenterprises.de/en/doublekiller/download.htm
+TAG POS=1 TYPE=IMG ATTR=SRC:https://www.bigbangenterprises.de/images/btn_downld.gif
+
+URL GOTO=http://portableapps.com/apps/utilities/virtuawin_portable
+TAG POS=1 TYPE=IMG ATTR=SRC:https://www.bigbangenterprises.de/images/btn_downld.gif
+
+'URL GOTO=
+'TAG POS=1 TYPE=IMG ATTR=SRC:https://www.bigbangenterprises.de/images/btn_downld.gif
+
+URL GOTO=http://portableapps.com/apps/utilities/texter_portable
+TAG POS=1 TYPE=IMG ATTR=SRC:https://www.bigbangenterprises.de/images/btn_downld.gif
+
+
+URL GOTO=http://portableapps.com/apps/office/speedcrunch_portable
+TAG POS=1 TYPE=IMG ATTR=SRC:http://a.fsdn.com/con/app/accelerator/button?button_size=large
+
 URL GOTO=http://portableapps.com/apps/utilities/convertall_portable
+TAG POS=1 TYPE=IMG ATTR=SRC:http://a.fsdn.com/con/app/accelerator/button?button_size=large
+
+
+URL GOTO= http://portableapps.com/apps/office/sumatra_pdf_portable
 TAG POS=1 TYPE=IMG ATTR=SRC:http://a.fsdn.com/con/app/accelerator/button?button_size=large
 
 URL GOTO=http://portableapps.com/apps/internet/filezilla_portable
