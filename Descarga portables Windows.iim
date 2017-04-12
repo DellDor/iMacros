@@ -2,6 +2,10 @@ VERSION BUILD=9030808 RECORDER=FX
 TAB T=1
 'Descarga el portable que se active. Diferente: Libreoffice
 
+
+http://portableapps.com/apps/office/sumatra_pdf_portable
+
+http://portableapps.com/apps/office/sumatra_pdf_portable
 'URL GOTO=http://portableapps.com/apps/office/speedcrunch_portable
 'URL GOTO=http://portableapps.com/apps/office/cherrytree-portable
 'URL GOTO=http://portableapps.com/apps/internet/pidgin_portable
@@ -16,5 +20,4 @@ TAG POS=1 TYPE=IMG ATTR=SRC:http://a.fsdn.com/con/app/accelerator/button?button_
 
 
 'URL GOTO=http://portableapps.com/apps/office/libreoffice_portable
-
 'TAG POS=1 TYPE=EM ATTR=TXT:for<SP>Windows,<SP>Multilingual119MB<SP>download<SP>/<SP>460*
