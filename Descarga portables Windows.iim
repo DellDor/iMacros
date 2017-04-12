@@ -1,0 +1,20 @@
+VERSION BUILD=9030808 RECORDER=FX
+TAB T=1
+'Descarga el portable que se active. Diferente: Libreoffice
+
+'URL GOTO=http://portableapps.com/apps/office/speedcrunch_portable
+'URL GOTO=http://portableapps.com/apps/office/cherrytree-portable
+'URL GOTO=http://portableapps.com/apps/internet/pidgin_portable
+'URL GOTO=http://portableapps.com/apps/utilities/convertall_portable
+URL GOTO=http://portableapps.com/apps/internet/filezilla_portable
+URL GOTO=http://portableapps.com/apps/graphics_pictures/inkscape_portable
+
+TAG POS=1 TYPE=IMG ATTR=SRC:http://a.fsdn.com/con/app/accelerator/button?button_size=large
+
+'EVENT TYPE=CLICK SELECTOR="HTML>BODY>DIV:nth-of-type(2)>DIV>DIV:nth-of-type(2)>DIV>DIV:nth-of-type(2)>DIV>DIV:nth-of-type(2)>DIV>DIV>ARTICLE>DIV>DIV>DIV>DIV>DIV>A>SPAN>EM" BUTTON=0
+
+
+
+'URL GOTO=http://portableapps.com/apps/office/libreoffice_portable
+
+'TAG POS=1 TYPE=EM ATTR=TXT:for<SP>Windows,<SP>Multilingual119MB<SP>download<SP>/<SP>460*
